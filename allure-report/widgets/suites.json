@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"c2d57503ceff46fd1c9bad0fe50e2008","name":"Login page","statistic":{"failed":0,"broken":0,"skipped":0,"passed":19,"unknown":0,"total":19}},{"uid":"faec2529692f3d5ba55a97af434f8eb7","name":"Product Page Validation","statistic":{"failed":0,"broken":0,"skipped":0,"passed":9,"unknown":0,"total":9}}]}
