@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d110d8a-72bd-4b09-a208-0c3696268b7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Features/LoginPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/LoginPage.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Product.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Product.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefs/ProductPageDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefs/ProductPageDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "D:/Project Playground/CI-CD/Swag-Lab-Cucumber-Java-POM/src/main/java",
-    "last_opened_file_path": "D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/pom.xml",
+    "last_opened_file_path": "D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/src/test/java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
