@@ -10,9 +10,6 @@ import io.cucumber.testng.CucumberOptions;
         plugin ={
                 "pretty",
                 //"html:target/cucumber-reports.html",
-//                "html:target/cucumber-html-report",
-//                "json:target/cucumber.json",
-//                "junit:target/cucumber.xml",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         }
 )

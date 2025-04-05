@@ -6,8 +6,82 @@
   <component name="ChangeListManager">
     <list default="true" id="8d110d8a-72bd-4b09-a208-0c3696268b7c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0086dc70-da39-4625-a034-1f23b973ba29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/011149f1-8659-4df6-a80e-4348b640d4de-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/011a57ad-d01a-40d8-8235-bbab05e47bd3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0583b4ea-6c2a-4d7d-b387-868fc2888511-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/063eec06-fe80-4ddf-aaa6-ae385bc4e1cf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/06e6d954-9c23-4fae-b8b2-6d7c1d38652b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0a08a450-4a60-46ca-b2f4-ac495cb4dfd6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0a555fa3-ff6b-41bd-ab88-28088d9a1431-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0cadd92e-5ada-4d45-a679-c9635d3b9eeb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/12386b66-d330-4d7a-98c2-6cfef65ec06c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/157e090d-0801-4811-8c57-7aaea88cea1b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/20784592-8e50-4c6b-af84-6ff4bca01f05-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/21c32fe7-9fb0-40c1-a25f-c3981bddd789-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2e196bbd-e67c-4984-8ac3-4fad71e41e15-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/324f1d8c-8500-41c3-af14-45e29c95c4ac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/326ebaa0-e27b-4fda-b9ea-493e846e0f95-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/375f42cc-4567-454d-979c-44492781eef2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/38573e0c-985d-495f-aa8b-e4db4fa11717-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3dfe932b-f2aa-4f98-9ea9-a2714f15f8a1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4016aa88-5104-41fc-a896-a7c45d22b42b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/432fca66-a917-4a4f-b4ce-c3b63272008d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4b24d44d-b035-47f7-8b66-8ff62ad9e4b4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/52f4dc81-f213-4415-a942-7e4cd91ed68c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/56915bd5-0986-4bb4-a46f-c446472f22ef-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5d03dee9-979f-463e-9279-656515bd7e37-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/63022987-81a1-4951-a575-0456570b1e2c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/66ac8d14-76b5-4ec2-8632-66f892c0541e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7002c77a-12dc-4ba9-beef-7bb64325d388-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/706f02e5-9be1-4f3c-b88f-62353d6e2889-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/76869e6a-f789-4d60-b812-ff4d20044f51-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a3374a2-936f-4d84-b6f7-c26dc30d2b54-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7e6eb9d5-71ad-4d56-be93-4bfc953ce24a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/803a0a60-c7f9-446e-871a-4496f3ffe8de-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/84ed276e-e6a1-4c56-b8af-8602cd3ffcb1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8aea9a3f-7ba8-44d7-bbe2-20ee7bd9bc8d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8d5a16a1-8a0b-44f3-af9b-50351c2288b9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/906693bf-f45f-48bf-bb8f-fee3005859c8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/90ad019e-1737-4592-9128-f01e49139406-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/972e07e1-f582-41fe-9df2-3f4077ce647a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/985aa112-c266-40e5-8094-4a16e3a7db25-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9876f300-c430-4524-838f-4d3a8d537ed4-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/99ca51f1-24a5-4dac-adfb-efa8fb8abbc6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9eadabe8-ba91-45f5-bbac-cfd976091cbd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9eb40177-6e0a-435e-af61-29bff7976419-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a40c9ec8-1ca8-401f-84df-ef27faab410f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a55c2228-46c3-4079-bf5c-da49b82b9f3f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a770606f-36de-490b-8d5d-acfefa3ba111-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a8a9b6bd-6c0e-4e3c-b57b-f581b294f76c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ae612320-0c82-4290-8d3e-0c997e6ffbb3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b0b4ee65-9d0f-4184-814e-af6a4153678b-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b8fa0d98-0757-4d52-a24e-75a43e30bcc1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b9c8792a-4ccf-4cb9-9cd8-d1ed296fc4ef-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ba6820c4-be93-4819-9267-4484cec3d008-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bbaa61e4-0ab6-4bde-8052-94196a9e0ae3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c29be3eb-0e05-466d-9ad5-3899d447e08b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c31e2599-db03-48b4-abe9-f9d6e9b30ccc-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c5baeade-132e-465e-be7e-329e5080efb0-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c5ef551c-4474-454e-8d2a-fee073bc9d67-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c8889cda-f3e7-4a63-9d03-b9589a57988a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c9d455cd-e146-4bea-97a3-b696694dd52b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d050ec51-9084-4067-9b60-71aff1e01dfb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d12f23ec-f7b9-4452-9c08-996f3b835c44-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d40d7b5e-d67d-466e-a4bb-8152d5895eb3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d5aa9de6-c2df-46f0-bd1d-5fcb881566a6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d5f653c3-a8dc-4000-aa0b-c3d756fa0bb9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d984a329-6533-46e0-a798-65f7dffbe6ff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e9a0c9da-d077-4f16-b286-a10bb65b9aed-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eed96ad1-13c0-401a-927f-ca52bc0467e5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f1a134cd-5223-48b1-a858-049b40f06bbf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f2241ca5-ea78-43bb-a6d0-e8157b6e2b54-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,35 +112,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: LoginPage.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Product.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Adding products to the cart.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Checking error message remove button.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with invalid credentials -  - Example n°1.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with invalid credentials -  - Example n°2.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with invalid credentials -  - Example n°7.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with invalid credentials.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with valid credentials.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: UI Validation.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Validate all products are shown in Ascending order when select Name (A to Z).executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Validate all products are shown in Descending order when select Price (low to high).executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;D:/Project Playground/CI-CD/Swag-Lab-Cucumber-Java-POM/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: LoginPage.executor": "Run",
+    "Cucumber Java.Feature: Product.executor": "Run",
+    "Cucumber Java.Scenario: Adding products to the cart.executor": "Run",
+    "Cucumber Java.Scenario: Checking error message remove button.executor": "Run",
+    "Cucumber Java.Scenario: Login with invalid credentials -  - Example n°1.executor": "Run",
+    "Cucumber Java.Scenario: Login with invalid credentials -  - Example n°2.executor": "Run",
+    "Cucumber Java.Scenario: Login with invalid credentials -  - Example n°7.executor": "Run",
+    "Cucumber Java.Scenario: Login with invalid credentials.executor": "Run",
+    "Cucumber Java.Scenario: Login with valid credentials.executor": "Run",
+    "Cucumber Java.Scenario: UI Validation.executor": "Run",
+    "Cucumber Java.Scenario: UI validation.executor": "Run",
+    "Cucumber Java.Scenario: Validate all products are shown in Ascending order when select Name (A to Z).executor": "Run",
+    "Cucumber Java.Scenario: Validate all products are shown in Descending order when select Price (low to high).executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testng.xml.executor": "Run",
+    "TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml.executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Project Playground/CI-CD/Swag-Lab-Cucumber-Java-POM/src/main/java",
+    "last_opened_file_path": "D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project Playground\CI-CD\Swag-Lab-CI-CD-Cucumber-Java\src" />
@@ -82,35 +158,16 @@
       <recent name="Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml">
-    <configuration name="Feature: Product" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Product.feature" />
-      <option name="GLUE" value="StepDefs" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Swag-Lab-CI-CD-Cucumber-Java" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Product" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Checking error message remove button" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestRunner">
+    <configuration name="Scenario: UI validation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/LoginPage.feature" />
       <option name="GLUE" value="StepDefs" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Swag-Lab-CI-CD-Cucumber-Java" />
-      <option name="NAME_FILTER" value="^Checking error message remove button$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Checking error message remove button$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Checking error message remove button" />
+      <option name="NAME_FILTER" value="^UI validation$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^UI validation$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: UI validation" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -153,6 +210,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Swag-Lab-CI-CD-Cucumber-Java" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Swag-Lab-CI-CD-Cucumber-Java" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testsuite.xml" />
@@ -182,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml" />
         <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testng.xml" />
+        <item itemvalue="Cucumber Java.Scenario: UI validation" />
+        <item itemvalue="TestNG.D:/Project Playground/CI-CD/Swag-Lab-CI-CD-Cucumber-Java/testsuite.xml" />
         <item itemvalue="Cucumber Java.Scenario: Validate all products are shown in Descending order when select Price (low to high)" />
-        <item itemvalue="Cucumber Java.Scenario: Checking error message remove button" />
-        <item itemvalue="Cucumber Java.Feature: Product" />
       </list>
     </recent_temporary>
   </component>
