@@ -115,6 +115,26 @@
 
   <build>
     <plugins>
+
+<!--      <plugin>
+        <groupId>net.masterthought</groupId>
+        <artifactId>maven-cucumber-reporting</artifactId>
+        <version>5.7.7</version>
+      </plugin>
+
+      <plugin>
+        <groupId>io.qameta.allure</groupId>
+        <artifactId>allure-maven</artifactId>
+        <version>2.11.2</version>
+        <executions>
+          <execution>
+            <goals>
+              <goal>report</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+-->
       <!-- Maven Compiler Plugin -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -149,9 +169,9 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
 
-          <includes>
-            <include>**/CucumberTestRunner.java</include>
-          </includes>
+<!--          <includes>-->
+<!--            <include>**/TestRunner.java</include>-->
+<!--          </includes>-->
         </configuration>
       </plugin>
 
