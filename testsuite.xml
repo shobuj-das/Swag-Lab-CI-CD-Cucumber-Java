@@ -1,0 +1,7 @@
+<suite name="Cucumber Test Suite">
+    <test name="Automation" parallel="tests" thread-count="3">
+        <classes>
+            <class name="TestRunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
